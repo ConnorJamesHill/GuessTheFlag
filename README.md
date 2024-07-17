@@ -41,4 +41,4 @@ To install and run GuessTheFlag on your iOS device:
 5. Keep playing to improve your score and beat your highscore.
 
 ## Contact
-For questions or feedback regarding GuessTheFlag, please contact JamesConnorHill@gmail.com or message me on LinkedIn.
+For questions or feedback regarding GuessTheFlag, please contact JamesConnorHill@gmail.com or message me on LinkedIn https://www.linkedin.com/in/connor-j-hill/.
