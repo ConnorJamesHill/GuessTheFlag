@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Technologies-Used](#Technologies-Used)
 - [Installation](#installation)
 - [Usage](#usage)
